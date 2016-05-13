@@ -1,0 +1,1 @@
+This Backbone.js application allows for MongoDB information to be CRUD via a UI optimized with Bootstrap and routed through Express.js. 
